@@ -1,0 +1,4 @@
+#dependencis
+azure.functions
+yfinance
+azure.storage.blob
