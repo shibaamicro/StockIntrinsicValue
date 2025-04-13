@@ -2,3 +2,5 @@
 azure.functions
 yfinance
 azure.storage.blob
+pyodbc
+flask
